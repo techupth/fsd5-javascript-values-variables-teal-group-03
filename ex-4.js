@@ -3,11 +3,11 @@
 
 //Exercise #4: What is Expression Start coding here
 130 + 300;
-let zero = 1000 - 1000;
-20 * 120;
-1000 / 2;
+let zero = 1000 - 1000; //เป็น expression
+20 * 120; //เป็น expression
+1000 / 2; //เป็น expression
 typeof true;
-let name = "John";
+let name = "John"; //เป็น expression
 3 > 5;
 10 == 100;
 200;
